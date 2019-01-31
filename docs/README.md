@@ -69,7 +69,7 @@ Organizers
 
 The (proposed) schedule includes:
 
-**Invited Speakers**. Dr. Richard Caruana and Dr.Jenn Wortman Vaughan, Microsoft Research 
+**Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
 
 **Researcher "Speed Dating"**. Participants will line up and get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
