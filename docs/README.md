@@ -59,7 +59,7 @@ Organizers
 
 | Photo | Bio |
 |         ---: |:--- |
-| ![Photo of Kori](../ai-hci-workshop/photos/ki_s.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft Research where she leads the Social Technologies research team. Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
+| ![Photo of Kori](../ai-hci-workshop/photos/ki_s.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft and a member of the MSR AI team.  Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
 | ![Photo of Munmun](../ai-hci-workshop/photos/mc_s.png) | **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions. |
 | ![Photo of Stevie](../ai-hci-workshop/photos/sc_s.png) | **[Stevie Chancellor](http://steviechancellor.com/)** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks. |
 | ![Photo of Michael](../ai-hci-workshop/photos/mv_s.png) | **[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground. |
@@ -69,7 +69,7 @@ Organizers
 
 The (proposed) schedule includes:
 
-**Invited Speaker**. TBC
+**Invited Speakers**. Dr. Richard Caruana and Dr.Jenn Wortman Vaughan, Microsoft Research 
 
 **Researcher "Speed Dating"**. Participants will line up and get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
