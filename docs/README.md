@@ -7,7 +7,7 @@
 * [Post Workshop Plans](#post-workshop-plans)
 * [References](#references)
 
-[**Submission site - deadline Feb 12 2019**](https://ai-hci19.hotcrp.com/)
+**Thanks for submitting everyone - there was a great turnout of papers --- more info soon**
 
 ## In Short
 
