@@ -43,7 +43,7 @@
 
 ## Accepted Papers
 
-####Human+AI Modeling & Design
+#### Human+AI Modeling & Design
 1.  Building Shared Mental Models between Humans and AI for Effective Collaboration. **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
 
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
@@ -84,7 +84,7 @@
 
 19. A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and**Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
 
-####Social Morality  Ethics of AI
+#### Social Morality  Ethics of AI
 20. Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
 
 21. Privacy Implications of Human Intelligence Powered Assistive Tools for Visually Impaired People. **Taslima Akter (Indiana University)**, Bryan Dosono (Syracuse University), Tousif Ahmed (Indiana University), Apu Kapadia (Indiana University), Bryan Semaan (Syracuse University)
