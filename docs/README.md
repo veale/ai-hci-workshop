@@ -38,6 +38,7 @@
 ## Invited Speakers 
 
 | Photo | Bio |
+
 |         ---: |:--- |
 
 | ![Photo of Rich](../ai-hci-workshop/photos/rich.jpg) | **[Dr. Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)** |
