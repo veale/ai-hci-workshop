@@ -36,7 +36,6 @@
 
 
 ## Invited Speakers 
-==========
 
 | Photo | Bio |
 |         ---: |:--- |
@@ -107,7 +106,7 @@
 26. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
 
 ## Organizers
-==========
+
 
 | Photo | Bio |
 |         ---: |:--- |
