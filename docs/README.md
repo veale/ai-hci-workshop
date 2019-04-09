@@ -1,4 +1,4 @@
-* [Schedule and Activities](#schedule-and-activities)
+* [Workshop Schedule](#workshop schedule)
 * [Accepted Papers](#accepted-papers)
 * [Organizers](#organizers)
 * [In Short](#in-short)
