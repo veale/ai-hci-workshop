@@ -44,7 +44,7 @@
 ## Accepted Papers
 
 **Human+AI Modeling & Design**
-1.  **Building Shared Mental Models between Humans and AI for Effective Collaboration**. _**Harmanpreet Kaur (University of Michigan)**_; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
+1.  **Building Shared Mental Models between Humans and AI for Effective Collaboration**. _Harmanpreet Kaur (University of Michigan)_; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
 
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
