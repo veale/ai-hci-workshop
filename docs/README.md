@@ -1,13 +1,49 @@
+* [Schedule and Activities](#schedule-and-activities)
+* [Accepted Papers] (#accepted-papers)
+* [Organizers](#organizers)
 * [In Short](#in-short)
 * [Call for Participation](#call-for-participation)
 * [Context](#context)
 * [Guiding Research Questions](#guiding-research-questions)
-* [Organizers](#organizers)
-* [Schedule and Activities](#schedule-and-activities)
 * [Post Workshop Plans](#post-workshop-plans)
 * [References](#references)
 
-**Thanks for submitting everyone - there was a great turnout of papers --- more info soon**
+## Schedule and Activities
+
+**Workshop Schedule**
+
+0900 - Welcome and Introduction
+
+0915 - Keynote Speakers + Q & A
+
+1020 - Mid-morning break
+
+1050 - Research Speed dating 
+
+1120 - Brainstorm key areas for HCI growth
+
+1220 - Lunch break
+
+1330 - Case-Study Breakout Groups
+
+1520 - Mid-afternoon break
+
+1550 - Report back from Case-Studies
+
+1630 - Brainstorm next steps
+
+1730 - Workshop concludes
+
+Workshop Happy Hour (optional): TBD
+
+
+**Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
+
+**Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
+
+**Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
+
+
 
 ## In Short
 
@@ -65,51 +101,6 @@ Organizers
 | ![Photo of Michael](../ai-hci-workshop/photos/mv_s.png) | **[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground. |
 | ![Photo of Eric](../ai-hci-workshop/photos/eb_s.png) | **[Eric P.S Baumer](http://ericbaumer.com/)** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook. |
 
-## Schedule and Activities
-
-The (proposed) schedule includes:
-
-**Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
-
-**Researcher "Speed Dating"**. Participants will line up and get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
-
-**Case Studies**. To further develop the implications of HCI and AI, we will invite small groups to work through challenging case studies and propose important contributions needed from the HCI community. These are real-world examples of AI's integration into decision-making processes with high stakes and risks. Possible topics include:
-
-1.  Cancer and Mental Health AI - what to do when the AI disagrees with the doctor/psychiatrist?
-
-2.  Criminal justice and parole AI systems that make decisions about sentencing or releasing individuals on parole
-
-3.  AI for anticipating domestic or child abuse
-
-4.  Social Media news feed and content ranking/curation
-
-One or more case studies will be selected based on participant interest in the position papers.
-
-**Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
-
-**Timings**:
-
-0900 - Welcome and Introduction
-
-0915 - Keynote speaker + Q & A
-
-1015 - Mid-morning break
-
-1030 - Speed dating for introductions
-
-1100 - Brainstorm key areas for HCI growth
-
-1200 - Lunch break
-
-1300 - Case-Study Breakout Groups
-
-1430 - Mid-afternoon break
-
-1500 - Report back from Case-Studies
-
-1600 - Brainstorm next steps
-
-1700 - Workshop concludes
 
 ## Post Workshop Plans
 
