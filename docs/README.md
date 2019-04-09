@@ -8,11 +8,9 @@
 * [Post Workshop Plans](#post-workshop-plans)
 * [References](#references)
 
-## Schedule and Activities
+## Workshop Schedule
 
-**Workshop Schedule**
-
-0900 - Welcome and Introduction
+**0900 - Welcome and Introduction
 
 0915 - Keynote Speakers + Q & A
 
