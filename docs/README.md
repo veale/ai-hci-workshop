@@ -35,16 +35,14 @@
 **Workshop Happy Hour (optional): TBD**
 
 
-##Invited Speaker 
+## Invited Speakers 
 ==========
 
 | Photo | Bio |
 |         ---: |:--- |
+
 | ![Photo of Rich](../ai-hci-workshop/photos/rich.jpg) | **Dr. Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)** |
 | ![Photo of Jenn](../ai-hci-workshop/photos/jenn2018.jpg) | **Dr. Jenn Wortman Vaughan](http://(www.jennwv.com/)** |
-
-
-
 
 **Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
