@@ -43,6 +43,7 @@ Workshop Happy Hour (optional): TBD
 
 **Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
+## Accepted Papers
 
 
 ## In Short
