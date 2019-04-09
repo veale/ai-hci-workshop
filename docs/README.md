@@ -1,5 +1,5 @@
 * [Schedule and Activities](#schedule-and-activities)
-* [Accepted Papers] (#accepted-papers)
+* [Accepted Papers](#accepted-papers)
 * [Organizers](#organizers)
 * [In Short](#in-short)
 * [Call for Participation](#call-for-participation)
