@@ -43,7 +43,7 @@
 
 ## Accepted Papers
 
-**Human+AI Modeling & Design**
+####Human+AI Modeling & Design
 1.  Building Shared Mental Models between Humans and AI for Effective Collaboration. **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
 
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
@@ -58,10 +58,46 @@
 
 7.  Exploring the User Experience of Artificial Intelligence Applications: User Survey and Human-AI Relationship Model. **Kaisa Väänänen (Tampere University)**, Helinä  Pohjola (Tampere University), and Aino Ahtinen (Tampere University)
 
-### AI Explainability & Experimentation
+#### AI Explainability & Experimentation
 8.  Describing Agent Behavior to People. **Ofra Amir (Technion - Israel Institute of Technology)**
 
-9. 
+9. Explainable AI and Smart Home Systems For Health. **Rachel Eardley (University of Bristol)**, Ewan Soubutts (University of Bristol), and Aisling Ann O'Kane (University of Bristol)
+
+10. Engagement Learning: Expanding Visual Knowledge using Inverse Reinforcement Learning. Ranjay Krishna (Stanford University), Sho Arora (Stanford University), and Apoorva Dornadula (Stanford University)
+
+11. Visualizing Item Spaces to Increase Transparency and Control in Recommender Systems. **Johannes Kunkel (University of Duisburg-Essen)** and Jürgen Ziegler (University of Duisburg-Essen)
+
+12. The Role of Experimentation in Human-AI Interaction. Edith Law (University of Waterloo) and Xiaowei Kuang (University of Waterloo)
+
+13. Considerations on Explainable AI and Users' Mental Models. **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
+
+14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; Brian Lim (National University of Singapore); Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
+
+#### AI In the Real World
+15. Flud: a hybrid crowd-algorithm approach for visualizing biological networks. **Aditya Bharadwaj (Virginia Tech)**; David Gwizdala (Bridgewater Associates); Yoonjin Kim (Virginia Tech); Kurt Luther (Virginia Tech); T. M. Murali (Virginia Tech)
+
+16. Meeting in the Middle: The Interpretation Gap Between People and Machines.  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
+
+17. Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung University of Toronto) and Joseph Jay Williams (University of Toronto)
+
+18. How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories? **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
+
+19. A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and**Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
+
+####Social Morality  Ethics of AI
+20. Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
+
+21. Privacy Implications of Human Intelligence Powered Assistive Tools for Visually Impaired People. **Taslima Akter (Indiana University)**, Bryan Dosono (Syracuse University), Tousif Ahmed (Indiana University), Apu Kapadia (Indiana University), Bryan Semaan (Syracuse University)
+
+22. Fairness Sample Complexity and the Case for Human Intervention. **Ananth Balashankar (New York University)**; Alyssa Lees (Google)
+
+23. Contextual Morality for Human-Centered Machine Learning. **Niels van Berkel (The University of Melbourne)**, Jorge Goncalves (The University of Melbourne), Benjamin Tag (Keio University); Simo Hosio (University of Oulu)
+
+24. Where is the social? Advocating an ecological perspective to AI validity. Federico Cabitza (University of Milano-Bicocca); Alvise Mattozzi (Free University of Bozen-Bolzano)
+
+25. Designing for Infrastructural AI: Hidden Labors, Unruly Contingencies, and Ecological Costs. **Elizabeth Kaziunas (AI Now Institute)** and Roel Dobbe (AI Now Institute)
+
+26. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
 
 ## In Short
 
