@@ -99,6 +99,19 @@
 
 26. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
 
+Organizers
+==========
+
+| Photo | Bio |
+|         ---: |:--- |
+| ![Photo of Kori](../ai-hci-workshop/photos/ki_s.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft and a member of the MSR AI team.  Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
+| ![Photo of Munmun](../ai-hci-workshop/photos/mc_s.png) | **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions. |
+| ![Photo of Stevie](../ai-hci-workshop/photos/sc_s.png) | **[Stevie Chancellor](http://steviechancellor.com/)** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks. |
+| ![Photo of Michael](../ai-hci-workshop/photos/mv_s.png) | **[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground. |
+| ![Photo of Eric](../ai-hci-workshop/photos/eb_s.png) | **[Eric P.S Baumer](http://ericbaumer.com/)** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook. |
+
+
+
 ## In Short
 
 In recent years, AI systems have become both more powerful and increasingly promising for integration in a variety of application areas. Attention has also been called to the social challenges these systems bring, particularly in how they might fail or even actively disadvantage marginalised social groups, or how their opacity might make them difficult to oversee and challenge. In the context of these and other challenges, the roles of humans working in tandem with these systems will be important, yet the HCI community has been only a quiet voice in these debates to date. **This workshop aims to catalyse and crystallise an agenda around HCI and AI**. Topics of interest (See [Guiding Research Questions](#guiding-research-questions)) include methods to collaboratively explore AI systems to identify unusual failure modes; identifying, methods to capture and replicate social practices of critical engagement and oversight with AI systems; integrating insights from AI systems with complementary human insights; avoiding over- and under-reliance while preserving enjoyable user experiences; creating useable ML/AI systems for HCI practitioners; and modes of engagement with novel AI 'users', such as those captured and represented in training sets.
@@ -143,17 +156,6 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 6.  **Representing Diverse Human Roles and Relationships in AI Systems**: AI systems often involve humans in capacities other than the traditional \"user\"; for instance, individuals who conceptualize the system, the developers, the people who evaluate the underlying machine learning models, and those whose data the system draws from to make inferences (human stakeholders). What approaches -- across the design, implementation, evaluation, and deployment processes -- help account for the variety of relationships that people have with AI systems?
 
 7.  **Critical Views of AI**: Work in fields such as science and technology studies (STS), media studies, and other areas has examined the social, political, and economic ramifications of AI systems \[16\]. To date, little of such work has been incorporated into HCI \[1\]. How can critical perspectives be brought into a meaningful, productive dialog with design- and implementation-oriented work? In short, how do we foster a productive dialog between researchers
-
-Organizers
-==========
-
-| Photo | Bio |
-|         ---: |:--- |
-| ![Photo of Kori](../ai-hci-workshop/photos/ki_s.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft and a member of the MSR AI team.  Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
-| ![Photo of Munmun](../ai-hci-workshop/photos/mc_s.png) | **[Munmun De Choudhury](http://www.munmund.net/)** is an Assistant Professor in the School of Interactive Computing at Georgia Tech where she directs the Social Dynamics and Wellbeing Lab. Dr. De Choudhury's research interests lie at the intersection of machine learning, social media, and health, with a focus on assessing, understanding, and improving mental health from online social interactions. |
-| ![Photo of Stevie](../ai-hci-workshop/photos/sc_s.png) | **[Stevie Chancellor](http://steviechancellor.com/)** is a PhD Candidate in Human Centered Computing at Georgia Tech. She researches data-driven algorithms to understand deviant mental health behavior in online communities. Her work combines techniques from machine learning and data science with human-centered insights around online communities and mental health, focusing on identifying and predicting content from pro-eating disorder communities on social networks. |
-| ![Photo of Michael](../ai-hci-workshop/photos/mv_s.png) | **[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground. |
-| ![Photo of Eric](../ai-hci-workshop/photos/eb_s.png) | **[Eric P.S Baumer](http://ericbaumer.com/)** is an Assistant Professor of Computer Science and Engineering at Lehigh University. His research focuses on interactions with AI and machine learning algorithms in the context of social computing systems. Recent work includes using computational tools to identify the language of political framing, and studying technology refusal in the context of Facebook. |
 
 
 ## Post Workshop Plans
