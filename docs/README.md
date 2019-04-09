@@ -39,7 +39,7 @@
 
 | Photo | Bio |
 
-|         ---: |:--- |
+|  ---:|:--- |
 
 | ![Photo of Rich](../ai-hci-workshop/photos/rich.jpg) | **[Dr. Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)** |
 | ![Photo of Jenn](../ai-hci-workshop/photos/jenn2018.jpg) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** |
