@@ -22,11 +22,11 @@
 
 **1220 - Lunch Break**
 
-**1330 - Case-Study Breakout Groups**
+**1330 - Breakout Groups**
 
 **1520 - Mid-afternoon Break**
 
-**1550 - Report Back from Case-Studies**
+**1550 - Report Back from Breakout Groups**
 
 **1630 - Brainstorm Next Steps**
 
@@ -35,7 +35,14 @@
 **Workshop Happy Hour (optional): TBD**
 
 
-**Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
+**Invited Speakers** 
+| Photo | Bio |
+|         ---: |:--- |
+| ![Photo of Rich](../ai-hci-workshop/photos/ki_s.png) | **Dr. Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)** |
+| ![Photo of Jenn](../ai-hci-workshop/photos/ki_s.png) | **Dr. Jenn Wortman Vaughan](http://(www.jennwv.com/)** |
+
+
+
 
 **Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
