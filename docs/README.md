@@ -10,7 +10,7 @@
 
 ## Workshop Schedule
 
-**0900 - Welcome and Introduction**
+**0900 - Welcome and Introduction
 
 0915 - Keynote Speakers + Q & A
 
@@ -32,7 +32,7 @@
 
 1730 - Workshop concludes
 
-Workshop Happy Hour (optional): TBD
+Workshop Happy Hour (optional): TBD**
 
 
 **Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
