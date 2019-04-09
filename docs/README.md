@@ -10,29 +10,29 @@
 
 ## Workshop Schedule
 
-**0900 - Welcome and Introduction
+**0900 - Welcome and Introduction**
 
-0915 - Keynote Speakers + Q & A
+**0915 - Keynote Speakers + Q & A**
 
-1020 - Mid-morning break
+**1020 - Mid-Morning Break**
 
-1050 - Research Speed dating 
+**1050 - Research Speed Dating** 
 
-1120 - Brainstorm key areas for HCI growth
+**1120 - Brainstorm Key Areas for HCI Growth**
 
-1220 - Lunch break
+**1220 - Lunch Break**
 
-1330 - Case-Study Breakout Groups
+**1330 - Case-Study Breakout Groups**
 
-1520 - Mid-afternoon break
+**1520 - Mid-afternoon Break**
 
-1550 - Report back from Case-Studies
+**1550 - Report Back from Case-Studies**
 
-1630 - Brainstorm next steps
+**1630 - Brainstorm Next Steps**
 
-1730 - Workshop concludes
+**1730 - Workshop Concludes**
 
-Workshop Happy Hour (optional): TBD**
+**Workshop Happy Hour (optional): TBD**
 
 
 **Invited Speakers**. **[Dr. Rich Caruana](http://https://www.microsoft.com/en-us/research/people/rcaruana/)** and **[Dr. Jenn Wortman Vaughan](www.jennwv.com/)**, Microsoft Research 
