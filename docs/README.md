@@ -73,7 +73,7 @@
 
 11. Visualizing Item Spaces to Increase Transparency and Control in Recommender Systems. **Johannes Kunkel (University of Duisburg-Essen)** and Jürgen Ziegler (University of Duisburg-Essen)
 
-12. The Role of Experimentation in Human-AI Interaction. Edith Law (University of Waterloo) and Xiaowei Kuang (University of Waterloo)
+12. The Role of Experimentation in Human-AI Interaction. **Edith Law (University of Waterloo)** and Xiaowei Kuang (University of Waterloo)
 
 13. Considerations on Explainable AI and Users' Mental Models. **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
 
@@ -84,11 +84,11 @@
 
 16. Meeting in the Middle: The Interpretation Gap Between People and Machines.  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
 
-17. Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung University of Toronto) and Joseph Jay Williams (University of Toronto)
+17. Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung (University of Toronto) and Joseph Jay Williams (University of Toronto)
 
 18. How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories? **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
 
-19. A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and**Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
+19. A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and **Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
 
 #### Social Morality  Ethics of AI
 20. Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
@@ -99,11 +99,9 @@
 
 23. Contextual Morality for Human-Centered Machine Learning. **Niels van Berkel (The University of Melbourne)**, Jorge Goncalves (The University of Melbourne), Benjamin Tag (Keio University); Simo Hosio (University of Oulu)
 
-24. Where is the social? Advocating an ecological perspective to AI validity. Federico Cabitza (University of Milano-Bicocca); Alvise Mattozzi (Free University of Bozen-Bolzano)
+24. Designing for Infrastructural AI: Hidden Labors, Unruly Contingencies, and Ecological Costs. **Elizabeth Kaziunas (AI Now Institute)** and Roel Dobbe (AI Now Institute)
 
-25. Designing for Infrastructural AI: Hidden Labors, Unruly Contingencies, and Ecological Costs. **Elizabeth Kaziunas (AI Now Institute)** and Roel Dobbe (AI Now Institute)
-
-26. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
+25. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
 
 ## Organizers
 
