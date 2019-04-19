@@ -9,16 +9,17 @@
 * [References](#references)
 
 ## Workshop Schedule
+**Room: Carron 1**
 
 **0900 - Welcome and Introduction**
 
 **0915 - Keynote Speakers + Q & A**
 
-**1020 - Mid-Morning Break**
+**1030 - Mid-Morning Break**
 
-**1050 - Research Speed Dating** 
+**1100 - Research Speed Dating** 
 
-**1120 - Brainstorm Key Areas for HCI Growth**
+**1130 - Brainstorm Key Areas for HCI Growth**
 
 **1220 - Lunch Break**
 
