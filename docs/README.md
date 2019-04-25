@@ -11,25 +11,25 @@
 ## Workshop Schedule
 **Room: Carron 1**
 
-**0900 - Welcome and Introduction**
+**0900 - Welcome and Introduction** (Kori Inkpen)
 
-**0915 - Keynote Speakers + Q & A**
+**0915 - Keynote Speaker - Jenn Wortman Vaughan**
 
 **1020 - Mid-Morning Break**
 
-**1045 - Research Speed Dating** 
+**1045 - Research Speed Dating** (Stevie Chancellor)
 
-**1130 - Brainstorm Key Areas for HCI Growth**
+**1130 - Brainstorm Key Areas for HCI Growth** (Eric Baumer)
 
 **1220 - Lunch Break**
 
-**1330 - Breakout Groups**
+**1330 - Breakout Groups** (Munmun de Choudhury)
 
 **1520 - Mid-afternoon Break**
 
-**1545 - Report Back from Breakout Groups**
+**1545 - Report Back from Breakout Groups** (Munmun de Choudhury)
 
-**1630 - Brainstorm Next Steps**
+**1630 - Brainstorm Next Steps** (Kori Inkpen)
 
 **1730 - Workshop Concludes**
 
@@ -49,7 +49,7 @@ Unfortuantely, Rich Caruana is no longer able to attend the workshop.
 
 **Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
-## Accepted Papers
+## Accepted Papers (attending authors are **bolded**)
 
 #### Human+AI Modeling & Design
 1.  Building Shared Mental Models between Humans and AI for Effective Collaboration. **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
