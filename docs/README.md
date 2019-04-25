@@ -50,7 +50,7 @@ Unfortuantely, Rich Caruana is no longer able to attend the workshop.
 **Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
 ## Accepted Papers 
-####(attending authors are **bolded**)
+#### (attending authors are **bolded**)
 
 #### Human+AI Modeling & Design
 1.  Building Shared Mental Models between Humans and AI for Effective Collaboration. **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
