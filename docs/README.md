@@ -38,7 +38,7 @@
 
 ## Invited Speakers 
 
-| Photo | Bio |
+| Photo | Bio | Title | 
 |         ---: |:--- | --- | 
 | ![Photo of Jenn](../ai-hci-workshop/photos/jenn.png) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** | Intelligibility Throughout the Machine Learning Lifecycle |
 Unfortuantely, Rich Caruana is no longer able to attend the workshop. 
