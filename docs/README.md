@@ -107,9 +107,9 @@ Unfortuantely, Rich Caruana is no longer able to attend the workshop.
 
 ## Other Guest Attendees
 
-1. Steve Whittaker (University of Santa Cruz)
+1. **Steve Whittaker (University of Santa Cruz)**
 
-2. Hannah Wallach (Microsoft Research) 
+2. **Hannah Wallach (Microsoft Research)** 
 
 ## Organizers
 
