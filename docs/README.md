@@ -105,6 +105,12 @@ Unfortuantely, Rich Caruana is no longer able to attend the workshop.
 
 25. What Makes Automated Suggestions Problematic? The Human Factor. Alexandra Olteanu and Fernando Diaz (Microsoft Research); **Gabriella Kazai (Microsoft)**; Luke Stark and Mohamed Musbah (Microsoft Research)
 
+## Other Guest Attendees
+
+1. Steve Whittaker (University of Santa Cruz)
+
+2. Hannah Wallach (Microsoft Research) 
+
 ## Organizers
 
 
