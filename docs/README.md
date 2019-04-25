@@ -15,9 +15,9 @@
 
 **0915 - Keynote Speakers + Q & A**
 
-**1030 - Mid-Morning Break**
+**1020 - Mid-Morning Break**
 
-**1100 - Research Speed Dating** 
+**1045 - Research Speed Dating** 
 
 **1130 - Brainstorm Key Areas for HCI Growth**
 
@@ -27,7 +27,7 @@
 
 **1520 - Mid-afternoon Break**
 
-**1550 - Report Back from Breakout Groups**
+**1545 - Report Back from Breakout Groups**
 
 **1630 - Brainstorm Next Steps**
 
@@ -39,9 +39,9 @@
 ## Invited Speakers 
 
 | Photo | Bio |
-|         ---: |:--- |
-| ![Photo of Rich](../ai-hci-workshop/photos/rich.png) | **[Dr. Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)** |
-| ![Photo of Jenn](../ai-hci-workshop/photos/jenn.png) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** |
+|         ---: |:--- | --- | 
+| ![Photo of Jenn](../ai-hci-workshop/photos/jenn.png) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** | Intelligibility Throughout the Machine Learning Lifecycle |
+Unfortuantely, Rich Caruana is no longer able to attend the workshop. 
 
 **Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
