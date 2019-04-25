@@ -79,7 +79,7 @@ Unfortuantely, Rich Caruana is no longer able to attend the workshop.
 
 13. Considerations on Explainable AI and Users' Mental Models. **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
 
-14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; Brian Lim (National University of Singapore); Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
+14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
 
 #### AI In the Real World
 15. Flud: a hybrid crowd-algorithm approach for visualizing biological networks. **Aditya Bharadwaj (Virginia Tech)**; David Gwizdala (Bridgewater Associates); Yoonjin Kim (Virginia Tech); Kurt Luther (Virginia Tech); T. M. Murali (Virginia Tech)
