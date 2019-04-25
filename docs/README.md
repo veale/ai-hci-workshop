@@ -42,8 +42,7 @@
 |         ---: |:--- |:--- | 
 | ![Photo of Jenn](../ai-hci-workshop/photos/jenn.png) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** | Intelligibility Throughout the Machine Learning Lifecycle |
 
-
-Unfortuantely, Rich Caruana is no longer able to attend the workshop. 
+*Unfortuantely, Rich Caruana is no longer able to attend the workshop.* 
 
 **Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
 
