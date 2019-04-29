@@ -52,7 +52,9 @@
 
 #### Human+AI Modeling & Design
 1.  [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
-
+<details><summary>Abstract</summary>
+  Here
+<\abstract>
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
 3.  Transparency in Maintenance of Recruitment Chatbots. **Kit Kuksenok (jobpal)** and Nina Praß (jobpal)
@@ -61,7 +63,7 @@
 
 5.  Human Trust Modeling for Bias Mitigation in Artificial Intelligence. **Fabian Sperrle (University of Konstanz)**, Udo Schlegel (University of Konstanz), Mennatallah El-Assady (University of Konstanz), and Daniel A. Keim (University of Konstanz)
 
-6.  [Accounting for the Human when Designing with AI - Challenges Identified.](https://www.researchgate.net/publication/332510603_ACCOUNTING_FOR_THE_HUMAN_WHEN_DESIGNING_WITH_AI_-_CHALLENGES_IDENTIFIED)" **Nathalie Stembert (Rotterdam University of Applied Sciences)** and Maaike Harbers (Rotterdam University of Applied Sciences)
+6.  [Accounting for the Human when Designing with AI - Challenges Identified.](https://www.researchgate.net/publication/332510603_ACCOUNTING_FOR_THE_HUMAN_WHEN_DESIGNING_WITH_AI_-_CHALLENGES_IDENTIFIED) **Nathalie Stembert (Rotterdam University of Applied Sciences)** and Maaike Harbers (Rotterdam University of Applied Sciences)
 
 7.  Exploring the User Experience of Artificial Intelligence Applications: User Survey and Human-AI Relationship Model. **Kaisa Väänänen (Tampere University)**, Helinä  Pohjola (Tampere University), and Aino Ahtinen (Tampere University)
 
