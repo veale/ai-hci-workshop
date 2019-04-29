@@ -90,7 +90,7 @@
 
 13. [Considerations on Explainable AI and Users' Mental Models.](http://www.martijnwillemsen.nl/recommenderlab/RutjesChHI2019ws.pdf) **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
 
-<details>As the aim of explaining is understanding, XAI is successful when the user has a good understanding of the AI system. This paper shows, using theories from the social sciences and HCI, that appropriately capturing and accounting for the user's mental model while explaining is key to successful XAI.</details>
+<details><summary>Abstract</summary> As the aim of explaining is understanding, XAI is successful when the user has a good understanding of the AI system. This paper shows, using theories from the social sciences and HCI, that appropriately capturing and accounting for the user's mental model while explaining is key to successful XAI.</details>
 
 14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
 
