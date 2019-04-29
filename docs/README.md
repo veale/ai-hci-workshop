@@ -55,6 +55,7 @@
 
 <details><summary>Abstract</summary> Intelligent systems have become increasingly common in settings ranging from performing everyday tasks more easily to decision-making for complex domains (e.g., healthcare, autonomous driving, criminal justice). Given this rising ubiquity of artificial intelligence (AI), both researchers and industry practitioners are exploring ways to better integrate AI agents in tasks that people do at home or work. However, these systems are currently limited because of gaps in the understanding between humans and their AI counterparts. In this paper, we propose methods for building shared mental models between humans and AI to enable human-AI collaboration at a level where both can be equal partners working on a shared task. We ground our approach in existing literature from CSCW and UX design.</details>
 
+
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
 3.  Transparency in Maintenance of Recruitment Chatbots. **Kit Kuksenok (jobpal)** and Nina Praß (jobpal)
@@ -63,20 +64,24 @@
 
 <details><summary>Abstract</summary>  Through several case studies on organizations deploying AI, we have started to develop a framework human–AI collaboration and its management in work contexts. The literature on distributed cognition, in which organizational activities are viewed as an alliance of computation-capable agents, humans and computers alike, offers several useful concepts and viewpoints for this task. In this paper, we summarise some parts of our ongoing theoretical but practice-oriented work, addressing especially the organizing for reliability of AI-based systems in high-risk contexts, the risk of worker deskilling, and management of collective knowledge across human and AI agents.</details>
 
+
 5.  Human Trust Modeling for Bias Mitigation in Artificial Intelligence. **Fabian Sperrle (University of Konstanz)**, Udo Schlegel (University of Konstanz), Mennatallah El-Assady (University of Konstanz), and Daniel A. Keim (University of Konstanz)
 
 6.  [Accounting for the Human when Designing with AI - Challenges Identified.](https://www.researchgate.net/publication/332510603_ACCOUNTING_FOR_THE_HUMAN_WHEN_DESIGNING_WITH_AI_-_CHALLENGES_IDENTIFIED) **Nathalie Stembert (Rotterdam University of Applied Sciences)** and Maaike Harbers (Rotterdam University of Applied Sciences)
 
 <details><summary>Abstract</summary>  Now that the application of Artificial Intelligence (AI) is becoming more mainstream, it is applied in many different fields, and consequently, it is starting to play a more prominent role in design processes. In current mainstream HCI (Human-Computer Interaction) design frameworks, the human (or user) is seen as the main focus, and stakeholders’ perspectives are taken into account throughout the whole problem-solving process to design thoughtful solutions. The increased complexity of design processes caused by the rise of AI, however, pose new challenges to these existing approaches, particularly for involving the human in the design process. Five challenges that can be of influence on accounting for the human in design processes involving AI are identified and elaborated upon: 1) insufficient AI literacy of designers and users, 2) the black-box nature of neural networks, 3) where to start: design vs data, 4) customized solutions for narrow user segments, and 5) thinking ahead: an extended collaborative design process. These challenges arise across the exploration, design, implementation, evaluation, and deployment phases. This extended abstract discusses possible approaches per challenge on how to warrant integration of the human perspective.</details>
 
+
 7.  Exploring the User Experience of Artificial Intelligence Applications: User Survey and Human-AI Relationship Model. **Kaisa Väänänen (Tampere University)**, Helinä  Pohjola (Tampere University), and Aino Ahtinen (Tampere University)
 
 <details><summary>Abstract</summary> Artificial Intelligence (AI) applications are spreading to our everyday lives. Supporting positive User Experience (UX) of novel applications is a crucial factor in the acceptance of those applications. Even though much of AI functionality happens “automatically” without users’ need to interact with it or be aware of it, issues specific to users’ perceptions of AI applications deserve attention. Whereas the AI community has started to address important issues such as transparency and bias in algorithm design, the broader UX perspective of AI applications has received less attention. In this paper we approach exploring this issue in two ways: First, by presenting results from a pilot survey on users’ perspective of AI applications and second, by proposing a model for Human-AI interaction based on the metaphor of human relationships.</details>
+
 
 #### AI Explainability & Experimentation
 8.   [Describing Agent Behavior to People](https://www.dropbox.com/s/ggll3lcf9g8i4cr/strategy_summarization_human_ai_CHI_workshop_final.pdf?dl=0) **Ofra Amir (Technion - Israel Institute of Technology)**
 
 <details><summary>Abstract</summary> People increasingly interact with AI-based agents. Improving people's ability to understand and anticipate the behavior of such agents is important as it can help facilitate trust and  collaboration between people and agents. In this paper, we review our recent efforts towards the development of methods for summarizing agent behavior to people. The goal of such summaries is to provide people with a global understanding of the agent's strategy, thus improving their understanding of the agent's strength and limitations. We present initial methods for generating such summaries, and discuss open challenges which require integration of HCI and AI perspectives.</details>
+
 
 9. Explainable AI and Smart Home Systems For Health. **Rachel Eardley (University of Bristol)**, Ewan Soubutts (University of Bristol), and Aisling Ann O'Kane (University of Bristol)
 
@@ -86,11 +91,13 @@
 
 <details><summary>Abstract</summary> Recommender systems (RS) are very common tools designed to help users choose items from a large number of alternatives. While research in RS has been mainly focusing on algorithmic precision, it slowly starts to take user-centric aspects into account as well. In this paper we present two demonstrative applications that target at increasing transparency and control in RS. Both prototypes follow the same method. As a baseline, the entire item space of a domain is visualized using a map-like interface. Inside this depiction users can express their preferences to which the RS reacts with matching recommendations. To change recommendations, users can alter their preferences expressed, which creates a continuous feedback loop between user and RS.</details>
 
+
 12. The Role of Experimentation in Human-AI Interaction. **Edith Law (University of Waterloo)** and Xiaowei Kuang (University of Waterloo)
 
 13. [Considerations on Explainable AI and Users' Mental Models.](http://www.martijnwillemsen.nl/recommenderlab/RutjesChHI2019ws.pdf) **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
 
 <details><summary>Abstract</summary> As the aim of explaining is understanding, XAI is successful when the user has a good understanding of the AI system. This paper shows, using theories from the social sciences and HCI, that appropriately capturing and accounting for the user's mental model while explaining is key to successful XAI.</details>
+
 
 14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
 
@@ -100,9 +107,11 @@
 <details><summary>Abstract</summary> Many fields of science require meaningful and visually appealing layouts of graphs. However, the
 problem remains challenging due to multiple conflicting criteria and complex domain-specific constraints. In this workshop paper, we present a gamified graph layout task where the goal of the players is to create a layout that optimises a score based on user-defined priorities. We propose a novel hybrid approach wherein non-experts and simulated annealing algorithm build on each other’s progress. To facilitate this collaborative process, we have developed Flud, an online game with a purpose that leverages the combination of cognitive abilities of humans to observe patterns, and the computational accuracy of simulated annealing to draw graph layouts that can help scientists visualize and understand complex networks. visualize and understand complex networks.</details>
 
+
 16. [Meeting in the Middle: The Interpretation Gap Between People and Machines.](https://aka.ms/interpretationgap)  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
 
 <details><summary>Abstract</summary>  Effectively bridging the fields of HCI and AI requires operationalizing what human users treat as meaningful in the stream of environmental and content information. Research has yet to systematically address the significant gap between levels of granularity and interpretation of machine labels and of human comprehension. To illustrate the problem, we provide some preliminary results from our study on using machine vision to make work meetings more inclusive, particularly for visually impaired participants.</details>
+
 
 17. Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung (University of Toronto) and Joseph Jay Williams (University of Toronto)
 
@@ -112,6 +121,7 @@ problem remains challenging due to multiple conflicting criteria and complex dom
 
 <details><summary>Abstract</summary> In this paper we investigate the reasoning of caseworkers, in the Danish public sector, tasked with placing or moving receivers benefits in or between “target groups" for administrative purposes. The investigation aims to contribute to a discussion of collaborative decision making, which may potentially involve humans and algorithms. Our preliminary findings show that caseworkers make choices based on foundations that may differ from the assumptions of mainstream AI. As such, our study raises important questions for the design of AI, especially concerning citizen-centric casework.</details>
 
+
 #### Social Morality  Ethics of AI
 20. Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
 
@@ -119,12 +129,14 @@ problem remains challenging due to multiple conflicting criteria and complex dom
 
 <details> <summary>Abstract</summary> Camera-based assistive technologies have the potential to empower people with visual impairments to obtain more independence. People with visual impairments are adopting artificial intelligence (AI) and human intelligence (HI) based technologies in their daily lives to overcome their accessibility barriers. We focus on the privacy concerns experienced by visually impaired people while using HI-based assistive technologies and report their preferences on AI versus HI-based assistive technologies in different situational contexts.</details>
 
+
 22. [Fairness Sample Complexity and the Case for Human Intervention](https://ai.google/research/pubs/pub48036). **Ananth Balashankar (New York University)**; Alyssa Lees (Google)
 
 <details><summary>Abstract</summary> With the aim of building machine learning systems that incorporate standards of fairness and accountability, we explore explicit subgroup sample complexity bounds. The work is motivated by the observation that classifier predictions for real world datasets often demonstrate drastically different metrics, such as accuracy, when subdivided by specific sensitive variable subgroups.  The reasons for these discrepancies are varied and not limited to the influence of mitigating variables, institutional bias, underlying population distributions as well as sampling bias. Among the numerous definitions of fairness that exist, we argue that at a minimum, principled ML practices should ensure that classification predictions are able to mirror the underlying sub-population distributions.  However, as the number of sensitive variables increase, populations meeting at the intersectionality of these variables may simply not exist or may not be large enough to provide accurate samples for classification. In these increasingly likely scenarios, we make the case for human intervention and applying situational and individual definitions of fairness. In this paper we present lower bounds of subgroup sample complexity for metric-fair learning based on the theory of Probably Approximately Metric Fair Learning.
 
 We demonstrate that for a classifier to approach a definition of fairness in terms of specific sensitive variables, adequate subgroup population samples need to exist and the model dimensionality has to be aligned with subgroup population distributions.  In cases where this is not feasible, we propose an approach using individual fairness definitions for achieving alignment.  We look at two commonly explored UCI datasets under this lens and suggest human interventions for data collection for specific subgroups to achieve approximate individual fairness for linear hypotheses.
 </details>
+
 
 23. Contextual Morality for Human-Centered Machine Learning. **Niels van Berkel (The University of Melbourne)**, Jorge Goncalves (The University of Melbourne), Benjamin Tag (Keio University); Simo Hosio (University of Oulu)
 
