@@ -51,7 +51,7 @@
 ## Accepted Papers 
 
 #### Human+AI Modeling & Design
-1.  Building Shared Mental Models between Humans and AI for Effective Collaboration. **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
+1.  [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
 
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
@@ -61,42 +61,42 @@
 
 5.  Human Trust Modeling for Bias Mitigation in Artificial Intelligence. **Fabian Sperrle (University of Konstanz)**, Udo Schlegel (University of Konstanz), Mennatallah El-Assady (University of Konstanz), and Daniel A. Keim (University of Konstanz)
 
-6.  Accounting for the Human when Designing with AI - Challenges Identified. **Nathalie Stembert (Rotterdam University of Applied Sciences)** and Maaike Harbers (Rotterdam University of Applied Sciences)
+6.  [Accounting for the Human when Designing with AI - Challenges Identified.](https://www.researchgate.net/publication/332510603_ACCOUNTING_FOR_THE_HUMAN_WHEN_DESIGNING_WITH_AI_-_CHALLENGES_IDENTIFIED)" **Nathalie Stembert (Rotterdam University of Applied Sciences)** and Maaike Harbers (Rotterdam University of Applied Sciences)
 
 7.  Exploring the User Experience of Artificial Intelligence Applications: User Survey and Human-AI Relationship Model. **Kaisa Väänänen (Tampere University)**, Helinä  Pohjola (Tampere University), and Aino Ahtinen (Tampere University)
 
 #### AI Explainability & Experimentation
-8.  Describing Agent Behavior to People. **Ofra Amir (Technion - Israel Institute of Technology)**
+8.   [Describing Agent Behavior to People](https://www.dropbox.com/s/ggll3lcf9g8i4cr/strategy_summarization_human_ai_CHI_workshop_final.pdf?dl=0) **Ofra Amir (Technion - Israel Institute of Technology)**
 
 9. Explainable AI and Smart Home Systems For Health. **Rachel Eardley (University of Bristol)**, Ewan Soubutts (University of Bristol), and Aisling Ann O'Kane (University of Bristol)
 
 10. Engagement Learning: Expanding Visual Knowledge using Inverse Reinforcement Learning. Ranjay Krishna (Stanford University), Sho Arora (Stanford University), and Apoorva Dornadula (Stanford University)
 
-11. Visualizing Item Spaces to Increase Transparency and Control in Recommender Systems. **Johannes Kunkel (University of Duisburg-Essen)** and Jürgen Ziegler (University of Duisburg-Essen)
+11. [Visualizing Item Spaces to Increase Transparency and Control in Recommender Systems.](https://interactivesystems.info/publications/visualizing-item-spaces-to-increase-transparency-and-control-in-recommender-systems) **Johannes Kunkel (University of Duisburg-Essen)** and Jürgen Ziegler (University of Duisburg-Essen)
 
 12. The Role of Experimentation in Human-AI Interaction. **Edith Law (University of Waterloo)** and Xiaowei Kuang (University of Waterloo)
 
-13. Considerations on Explainable AI and Users' Mental Models. **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
+13. [Considerations on Explainable AI and Users' Mental Models.](http://www.martijnwillemsen.nl/recommenderlab/RutjesChHI2019ws.pdf) **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
 
 14. The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
 
 #### AI In the Real World
-15. Flud: a hybrid crowd-algorithm approach for visualizing biological networks. **Aditya Bharadwaj (Virginia Tech)**; David Gwizdala (Bridgewater Associates); Yoonjin Kim (Virginia Tech); Kurt Luther (Virginia Tech); T. M. Murali (Virginia Tech)
+15. [Flud: a hybrid crowd-algorithm approach for visualizing biological networks.](https://crowd.cs.vt.edu/wordpress/wp-content/uploads/2019/04/Bharadwaj_Flud_Human_AI_CHI_2019_Workshop.pdf) **Aditya Bharadwaj (Virginia Tech)**; David Gwizdala (Bridgewater Associates); Yoonjin Kim (Virginia Tech); Kurt Luther (Virginia Tech); T. M. Murali (Virginia Tech)
 
-16. Meeting in the Middle: The Interpretation Gap Between People and Machines.  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
+16. [Meeting in the Middle: The Interpretation Gap Between People and Machines.](https://aka.ms/interpretationgap)  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
 
 17. Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung (University of Toronto) and Joseph Jay Williams (University of Toronto)
 
-18. How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories? **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
+18. [How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories?](https://cpb-eu-w2.wpmucdn.com/blogs.city.ac.uk/dist/f/2306/files/2019/02/Missaoui_etal-2aaaoau.pdf) **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
 
 19. A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and **Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
 
 #### Social Morality  Ethics of AI
 20. Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
 
-21. Privacy Implications of Human Intelligence Powered Assistive Tools for Visually Impaired People. **Taslima Akter (Indiana University)**, Bryan Dosono (Syracuse University), Tousif Ahmed (Indiana University), Apu Kapadia (Indiana University), Bryan Semaan (Syracuse University)
+21. [Privacy Implications of Human Intelligence Powered Assistive Tools for Visually Impaired People](https://sites.google.com/site/tonni095/publications). **Taslima Akter (Indiana University)**, Bryan Dosono (Syracuse University), Tousif Ahmed (Indiana University), Apu Kapadia (Indiana University), Bryan Semaan (Syracuse University)
 
-22. Fairness Sample Complexity and the Case for Human Intervention. **Ananth Balashankar (New York University)**; Alyssa Lees (Google)
+22. [Fairness Sample Complexity and the Case for Human Intervention](https://ai.google/research/pubs/pub48036). **Ananth Balashankar (New York University)**; Alyssa Lees (Google)
 
 23. Contextual Morality for Human-Centered Machine Learning. **Niels van Berkel (The University of Melbourne)**, Jorge Goncalves (The University of Melbourne), Benjamin Tag (Keio University); Simo Hosio (University of Oulu)
 
