@@ -54,7 +54,7 @@
 1.  [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan)
 <details><summary>Abstract</summary>
   Here
-<\abstract>
+<\details>
 2.  A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
 3.  Transparency in Maintenance of Recruitment Chatbots. **Kit Kuksenok (jobpal)** and Nina Praß (jobpal)
