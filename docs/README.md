@@ -52,14 +52,16 @@
 
 #### Human+AI Modeling & Design
 * [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan) 
-    * <details><summary>Click for abstract</summary> Intelligent systems have become increasingly common in settings ranging from performing everyday tasks more easily to decision-making for complex domains (e.g., healthcare, autonomous driving, criminal justice). Given this rising ubiquity of artificial intelligence (AI), both researchers and industry practitioners are exploring ways to better integrate AI agents in tasks that people do at home or work. However, these systems are currently limited because of gaps in the understanding between humans and their AI counterparts. In this paper, we propose methods for building shared mental models between humans and AI to enable human-AI collaboration at a level where both can be equal partners working on a shared task. We ground our approach in existing literature from CSCW and UX design.</details> <br/> 
- 
+    * <details><summary>Click for abstract</summary> Intelligent systems have become increasingly common in settings ranging from performing everyday tasks more easily to decision-making for complex domains (e.g., healthcare, autonomous driving, criminal justice). Given this rising ubiquity of artificial intelligence (AI), both researchers and industry practitioners are exploring ways to better integrate AI agents in tasks that people do at home or work. However, these systems are currently limited because of gaps in the understanding between humans and their AI counterparts. In this paper, we propose methods for building shared mental models between humans and AI to enable human-AI collaboration at a level where both can be equal partners working on a shared task. We ground our approach in existing literature from CSCW and UX design.</details>
+<br/>
+
 * A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
 * Transparency in Maintenance of Recruitment Chatbots. **Kit Kuksenok (jobpal)** and Nina Praß (jobpal)
 
 * How concepts from distributed cognition inform human-AI work. **Antti Salovaara (Aalto University)**, Esko Penttinen (Aalto Universit), and Tapani Rinta-Kahila (Aalto University); Aleksandre Asatiani (Aston University)
     * <details><summary>Click for abstract</summary>  Through several case studies on organizations deploying AI, we have started to develop a framework human–AI collaboration and its management in work contexts. The literature on distributed cognition, in which organizational activities are viewed as an alliance of computation-capable agents, humans and computers alike, offers several useful concepts and viewpoints for this task. In this paper, we summarise some parts of our ongoing theoretical but practice-oriented work, addressing especially the organizing for reliability of AI-based systems in high-risk contexts, the risk of worker deskilling, and management of collective knowledge across human and AI agents.</details>  
+<br/>
 
 * Human Trust Modeling for Bias Mitigation in Artificial Intelligence. **Fabian Sperrle (University of Konstanz)**, Udo Schlegel (University of Konstanz), Mennatallah El-Assady (University of Konstanz), and Daniel A. Keim (University of Konstanz)
 
