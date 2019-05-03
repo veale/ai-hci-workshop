@@ -33,7 +33,7 @@
 
 **1730 - Workshop Concludes**
 
-**19:00 - Workshop Happy Hour (optional): Taphouse Bar & Kitchen, 1046 Argyle St, Glasgow**
+**1900 - Workshop Happy Hour (optional): Taphouse Bar & Kitchen, 1046 Argyle St, Glasgow**
 
 
 ## Invited Speakers 
