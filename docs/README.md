@@ -33,7 +33,7 @@
 
 **1730 - Workshop Concludes**
 
-**Workshop Happy Hour (optional): TBD**
+**19:00 - Workshop Happy Hour (optional): Taphouse Bar & Kitchen, 1046 Argyle St, Glasgow**
 
 
 ## Invited Speakers 
@@ -53,7 +53,7 @@
 #### Human+AI Modeling & Design
 * [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan) 
     * <details><summary>Click for abstract</summary> Intelligent systems have become increasingly common in settings ranging from performing everyday tasks more easily to decision-making for complex domains (e.g., healthcare, autonomous driving, criminal justice). Given this rising ubiquity of artificial intelligence (AI), both researchers and industry practitioners are exploring ways to better integrate AI agents in tasks that people do at home or work. However, these systems are currently limited because of gaps in the understanding between humans and their AI counterparts. In this paper, we propose methods for building shared mental models between humans and AI to enable human-AI collaboration at a level where both can be equal partners working on a shared task. We ground our approach in existing literature from CSCW and UX design.</details>  
-
+ 
 
 * A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
 
@@ -79,8 +79,6 @@
 
 * Explainable AI and Smart Home Systems For Health. **Rachel Eardley (University of Bristol)**, Ewan Soubutts (University of Bristol), and Aisling Ann O'Kane (University of Bristol)
 
-* Engagement Learning: Expanding Visual Knowledge using Inverse Reinforcement Learning. Ranjay Krishna (Stanford University), Sho Arora (Stanford University), and Apoorva Dornadula (Stanford University)
-
 * [Visualizing Item Spaces to Increase Transparency and Control in Recommender Systems.](https://interactivesystems.info/publications/visualizing-item-spaces-to-increase-transparency-and-control-in-recommender-systems) **Johannes Kunkel (University of Duisburg-Essen)** and Jürgen Ziegler (University of Duisburg-Essen)
     * <details><summary>Click for abstract</summary> Recommender systems (RS) are very common tools designed to help users choose items from a large number of alternatives. While research in RS has been mainly focusing on algorithmic precision, it slowly starts to take user-centric aspects into account as well. In this paper we present two demonstrative applications that target at increasing transparency and control in RS. Both prototypes follow the same method. As a baseline, the entire item space of a domain is visualized using a map-like interface. Inside this depiction users can express their preferences to which the RS reacts with matching recommendations. To change recommendations, users can alter their preferences expressed, which creates a continuous feedback loop between user and RS.</details>  
 
@@ -97,8 +95,9 @@
 
 * [Meeting in the Middle: The Interpretation Gap Between People and Machines.](https://aka.ms/interpretationgap)  Anastasia Kuzminykh (University of Waterlo); **Sean Rintel (Microsoft Research, Cambridge)**
     * <details><summary>Click for abstract</summary>  Effectively bridging the fields of HCI and AI requires operationalizing what human users treat as meaningful in the stream of environmental and content information. Research has yet to systematically address the significant gap between levels of granularity and interpretation of machine labels and of human comprehension. To illustrate the problem, we provide some preliminary results from our study on using machine vision to make work meetings more inclusive, particularly for visually impaired participants.</details>  
+ 
 
-* Enhancing education with instructor-in-the-loop algorithms. Weiwen Leung (University of Toronto) and Joseph Jay Williams (University of Toronto)
+* Enhancing education with instructor-in-the-loop algorithms. **Weiwen Leung (University of Toronto)** and **Joseph Jay Williams (University of Toronto)**
 
 * [How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories?](https://cpb-eu-w2.wpmucdn.com/blogs.city.ac.uk/dist/f/2306/files/2019/02/Missaoui_etal-2aaaoau.pdf) **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
 
@@ -113,8 +112,7 @@
 
 
 * [Fairness Sample Complexity and the Case for Human Intervention](https://ai.google/research/pubs/pub48036). **Ananth Balashankar (New York University)**; Alyssa Lees (Google)
-    * <details><summary>Click for abstract</summary> With the aim of building machine learning systems that incorporate standards of fairness and accountability, we explore explicit subgroup sample complexity bounds. The work is motivated by the observation that classifier predictions for real world datasets often demonstrate drastically different metrics, such as accuracy, when subdivided by specific sensitive variable subgroups.  The reasons for these discrepancies are varied and not limited to the influence of mitigating variables, institutional bias, underlying population distributions as well as sampling bias. Among the numerous definitions of fairness that exist, we argue that at a minimum, principled ML practices should ensure that classification predictions are able to mirror the underlying sub-population distributions.  However, as the number of sensitive variables increase, populations meeting at the intersectionality of these variables may simply not exist or may not be large enough to provide accurate samples for classification. In these increasingly likely scenarios, we make the case for human intervention and applying situational and individual definitions of fairness. In this paper we present lower bounds of subgroup sample complexity for metric-fair learning based on the theory of Probably Approximately Metric Fair Learning. We demonstrate that for a classifier to approach a definition of fairness in terms of specific sensitive variables, adequate subgroup population samples need to exist and the model dimensionality has to be aligned with subgroup population distributions.  In cases where this is not feasible, we propose an approach using individual fairness definitions for achieving alignment.  We look at two commonly explored UCI datasets under this lens and suggest human interventions for data collection for specific subgroups to achieve approximate individual fairness for linear hypotheses.  
-</details>  
+    * <details><summary>Click for abstract</summary> With the aim of building machine learning systems that incorporate standards of fairness and accountability, we explore explicit subgroup sample complexity bounds. The work is motivated by the observation that classifier predictions for real world datasets often demonstrate drastically different metrics, such as accuracy, when subdivided by specific sensitive variable subgroups.  The reasons for these discrepancies are varied and not limited to the influence of mitigating variables, institutional bias, underlying population distributions as well as sampling bias. Among the numerous definitions of fairness that exist, we argue that at a minimum, principled ML practices should ensure that classification predictions are able to mirror the underlying sub-population distributions.  However, as the number of sensitive variables increase, populations meeting at the intersectionality of these variables may simply not exist or may not be large enough to provide accurate samples for classification. In these increasingly likely scenarios, we make the case for human intervention and applying situational and individual definitions of fairness. In this paper we present lower bounds of subgroup sample complexity for metric-fair learning based on the theory of Probably Approximately Metric Fair Learning. We demonstrate that for a classifier to approach a definition of fairness in terms of specific sensitive variables, adequate subgroup population samples need to exist and the model dimensionality has to be aligned with subgroup population distributions.  In cases where this is not feasible, we propose an approach using individual fairness definitions for achieving alignment.  We look at two commonly explored UCI datasets under this lens and suggest human interventions for data collection for specific subgroups to achieve approximate individual fairness for linear hypotheses.</details>  
 
 
 * Contextual Morality for Human-Centered Machine Learning. **Niels van Berkel (The University of Melbourne)**, Jorge Goncalves (The University of Melbourne), Benjamin Tag (Keio University); Simo Hosio (University of Oulu)
@@ -128,6 +126,10 @@
 1. **Steve Whittaker (University of Santa Cruz)**
 
 2. **Hannah Wallach (Microsoft Research)** 
+
+3. **Martin Schuessler (Technische Universität Berlin, Weizenbaum Institute)** - Workshop SV
+
+4. **Divya Ramesh (University of Michigan)** - Chairs SV
 
 ## Organizers
 
