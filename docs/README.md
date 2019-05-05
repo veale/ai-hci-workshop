@@ -20,7 +20,7 @@
 ## Accepted Papers 
 
 #### Human+AI Modeling & Design
-* [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; Alex C. Williams (University of Waterloo); Walter S. Lasecki (University of Michigan) 
+* [Building Shared Mental Models between Humans and AI for Effective Collaboration.](http://www-personal.umich.edu/~harmank/Papers/CHI2019_MentalModels_HAI.pdf) **Harmanpreet Kaur (University of Michigan)**; **Alex C. Williams (University of Waterloo)**; Walter S. Lasecki (University of Michigan) 
     * <details><summary>Click for abstract</summary> Intelligent systems have become increasingly common in settings ranging from performing everyday tasks more easily to decision-making for complex domains (e.g., healthcare, autonomous driving, criminal justice). Given this rising ubiquity of artificial intelligence (AI), both researchers and industry practitioners are exploring ways to better integrate AI agents in tasks that people do at home or work. However, these systems are currently limited because of gaps in the understanding between humans and their AI counterparts. In this paper, we propose methods for building shared mental models between humans and AI to enable human-AI collaboration at a level where both can be equal partners working on a shared task. We ground our approach in existing literature from CSCW and UX design.</details><br/>  
 
 * A Human-Centered Approach to Designing Teachable Systems. Christopher J. MacLellan (Soar Technology, Inc.); **Erik Harpstead (Carnegie Mellon University)**; Rob Sheline (Soar Technology, Inc.)
@@ -65,10 +65,10 @@
 
 * [How to Blend Journalistic Expertise with Artificial Intelligence For Research and Verifying News Stories?](https://cpb-eu-w2.wpmucdn.com/blogs.city.ac.uk/dist/f/2306/files/2019/02/Missaoui_etal-2aaaoau.pdf) **Sondess Missaoui (City, University of London)**, Marisela Gutierrez-Lopez, Andrew MacFarlane, and Stephann Makri, Colin Porlezza and Glenda Cooper (City, University of London)
 
-* A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. Anette C. M. Petersen and **Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
+* A B C, IT's Not Easy as 1 2 3: Making Choices at a Danish Jobcenter. **Anette C. M. Petersen** and **Lars Rune Christensen (IT University of Copenhagen)**; Thomas Hildebrandt and Naja Holten-Møller (Copenhagen University)
     * <details><summary>Click for abstract</summary> In this paper we investigate the reasoning of caseworkers, in the Danish public sector, tasked with placing or moving receivers benefits in or between “target groups" for administrative purposes. The investigation aims to contribute to a discussion of collaborative decision making, which may potentially involve humans and algorithms. Our preliminary findings show that caseworkers make choices based on foundations that may differ from the assumptions of mainstream AI. As such, our study raises important questions for the design of AI, especially concerning citizen-centric casework.</details><br/>
 
-#### Social Morality  Ethics of AI
+#### Social Morality / Ethics of AI
 * Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions. **Ali Aklhatib (Stanford University)** and Michael Bernstein (Stanford University)
 
 * [Privacy Implications of Human Intelligence Powered Assistive Tools for Visually Impaired People](https://sites.google.com/site/tonni095/publications). **Taslima Akter (Indiana University)**, Bryan Dosono (Syracuse University), Tousif Ahmed (Indiana University), Apu Kapadia (Indiana University), Bryan Semaan (Syracuse University)
@@ -87,11 +87,9 @@
 
 1. **Steve Whittaker (University of Santa Cruz)**
 
-2. **Hannah Wallach (Microsoft Research)** 
+2. **Martin Schuessler (Technische Universität Berlin, Weizenbaum Institute)** - Workshop SV
 
-3. **Martin Schuessler (Technische Universität Berlin, Weizenbaum Institute)** - Workshop SV
-
-4. **Divya Ramesh (University of Michigan)** - Chairs SV
+3. **Divya Ramesh (University of Michigan)** - Chairs SV
 
 ## Organizers
 
