@@ -1,3 +1,5 @@
+ ![Group Photo](../ai-hci-workshop/photos/group.jpg)
+
 * [Workshop Schedule](#workshop-schedule)
 * [Accepted Papers](#accepted-papers)
 * [Organizers](#organizers)
