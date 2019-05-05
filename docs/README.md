@@ -1,54 +1,21 @@
  ![Group Photo](../ai-hci-workshop/photos/WhereIsTheHuman.jpg)
 
-* [Workshop Schedule](#workshop-schedule)
+* [Invited Speaker](#iinvited-speaker)
 * [Accepted Papers](#accepted-papers)
 * [Organizers](#organizers)
 * [In Short](#in-short)
-* [Call for Participation](#call-for-participation)
 * [Context](#context)
 * [Guiding Research Questions](#guiding-research-questions)
-* [Post Workshop Plans](#post-workshop-plans)
+* [Workshop Schedule](#workshop-schedule)
+* [Call for Participation](#call-for-participation)
 * [References](#references)
 
-## Workshop Schedule
-**Room: Carron 1**
 
-**0900 - Welcome and Introduction** (Kori Inkpen)
-
-**0915 - Keynote Speaker - Jenn Wortman Vaughan**
-
-**1020 - Mid-Morning Break**
-
-**1045 - Research Speed Dating** (Stevie Chancellor)
-
-**1130 - Brainstorm Key Areas for HCI Growth** (Eric Baumer)
-
-**1220 - Lunch Break**
-
-**1330 - Breakout Groups** (Munmun de Choudhury)
-
-**1520 - Mid-afternoon Break**
-
-**1545 - Report Back from Breakout Groups** (Munmun de Choudhury)
-
-**1630 - Brainstorm Next Steps** (Kori Inkpen)
-
-**1730 - Workshop Concludes**
-
-**1900 - Workshop Happy Hour (optional): Taphouse Bar & Kitchen, 1046 Argyle St, Glasgow**
-
-
-## Invited Speakers 
+## Invited Speaker
 
 | Photo | Bio | Title | 
 |         ---: |:--- |:--- | 
 | ![Photo of Jenn](../ai-hci-workshop/photos/jenn.png) | **[Dr. Jenn Wortman Vaughan](http://www.jennwv.com/)** | Intelligibility Throughout the Machine Learning Lifecycle |
-
-*Unfortuantely, Rich Caruana is no longer able to attend the workshop.* 
-
-**Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
-
-**Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
 ## Accepted Papers 
 
@@ -184,10 +151,36 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 
 7.  **Critical Views of AI**: Work in fields such as science and technology studies (STS), media studies, and other areas has examined the social, political, and economic ramifications of AI systems \[16\]. To date, little of such work has been incorporated into HCI \[1\]. How can critical perspectives be brought into a meaningful, productive dialog with design- and implementation-oriented work? In short, how do we foster a productive dialog between researchers
 
+## Workshop Schedule
+**Room: Carron 1**
 
-## Post Workshop Plans
+**0900 - Welcome and Introduction** (Kori Inkpen)
 
-We plan to take the ideas generated from the workshop and write a public facing blog post (e.g., a Medium article) on the argument \"Where is the human in the AI\". We will also take insights gleaned from the next steps brainstorming and prioritize a few action items that members of the workshop will engage in after the workshop. This could include plans for follow-up symposiums, multi-disciplinary workshops or curriculum tools.
+**0915 - Keynote Speaker - Jenn Wortman Vaughan**
+
+**1020 - Mid-Morning Break**
+
+**1045 - Research Speed Dating** (Stevie Chancellor)
+
+**1130 - Brainstorm Key Areas for HCI Growth** (Eric Baumer)
+
+**1220 - Lunch Break**
+
+**1330 - Breakout Groups** (Munmun de Choudhury)
+
+**1520 - Mid-afternoon Break**
+
+**1545 - Report Back from Breakout Groups** (Munmun de Choudhury)
+
+**1630 - Brainstorm Next Steps** (Kori Inkpen)
+
+**1730 - Workshop Concludes**
+
+**1900 - Workshop Happy Hour (optional): Taphouse Bar & Kitchen, 1046 Argyle St, Glasgow**
+
+**Research "Speed Dating"**. Participants will get 60 seconds to introduce themselves to another member of the workshop as well as a brief description of their research and what they hope to get out of participating in the workshop. This will serve as an ice breaker activity for participants, and we have found this particular style of introduction very effective in past workshops.
+
+**Next Steps**. Brainstorm important next steps to continue these conversations and strengthen the community of HCI researchers working on Human+AI problems and facilitate rich collaborations with others disciplines. Additionally, we will discuss ways we can have broader impact by ensuring that this topic is central to HCI education.
 
 ## References
 
