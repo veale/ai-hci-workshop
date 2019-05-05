@@ -1,4 +1,4 @@
- ![Group Photo](../ai-hci-workshop/photos/group.jpg)
+ ![Group Photo](../ai-hci-workshop/photos/whereisthehuman.jpg)
 
 * [Workshop Schedule](#workshop-schedule)
 * [Accepted Papers](#accepted-papers)
