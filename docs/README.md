@@ -52,7 +52,7 @@
 * [Considerations on Explainable AI and Users' Mental Models.](http://www.martijnwillemsen.nl/recommenderlab/RutjesChHI2019ws.pdf) **Heleen Rutjes (Eindhoven University of Technology)**, Martijn C. Willemsen (Eindhoven University of Technology), and Wijnand A. IJsselsteijn (Eindhoven University of Technology)
     * <details><summary>Click for abstract</summary> As the aim of explaining is understanding, XAI is successful when the user has a good understanding of the AI system. This paper shows, using theories from the social sciences and HCI, that appropriately capturing and accounting for the user's mental model while explaining is key to successful XAI.</details><br/>
 
-* The Curious Case of Providing Intelligibility for Smart Speakers. **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
+* [The Curious Case of Providing Intelligibility for Smart Speakers.](http://jovermeulen.com/uploads/Research/VermeulenLimAvdicWangAbdul_where-is-human-ai-chi2019.pdf) **Jo Vermeulen (Aarhus University)**; **Brian Lim (National University of Singapore)**; Mirzel Avdic (Aarhus University); Danding Wang and Ashraf Abdul (National University of Singapore) 
 
 #### AI In the Real World
 * [Flud: a hybrid crowd-algorithm approach for visualizing biological networks.](https://crowd.cs.vt.edu/wordpress/wp-content/uploads/2019/04/Bharadwaj_Flud_Human_AI_CHI_2019_Workshop.pdf) **Aditya Bharadwaj (Virginia Tech)**; David Gwizdala (Bridgewater Associates); Yoonjin Kim (Virginia Tech); Kurt Luther (Virginia Tech); T. M. Murali (Virginia Tech)
@@ -261,4 +261,3 @@ Our workshop provides an opportunity for researchers and practitioners intereste
 [^1]: [www.fatconference.org](www.fatconference.org)
 
 [^2]: https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html
-
